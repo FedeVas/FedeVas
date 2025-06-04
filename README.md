@@ -5,11 +5,11 @@
 ## 🚀 My projects
 - 🔭 [Project 1](https://github.com/) — description
 
-## 💻 Стек
+## 💻 Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 📈 GitHub статистика
+## 📈 GitHub stats
 ![Vasilii's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedevas&show_icons=true&theme=radical)
 
 ## 📬 How to reach me:
